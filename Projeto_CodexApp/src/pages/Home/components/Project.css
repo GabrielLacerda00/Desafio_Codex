@@ -1,0 +1,24 @@
+.projeto-container{
+    background-color: #D3D3D3;
+    margin: 8px 0;
+    padding: 15px 20px;
+    display: flex;
+    border-radius: 5px;
+    justify-content: space-between;
+    color:#213649;
+    align-items: center;
+
+}
+
+.projeto-title{
+    cursor: pointer;
+}
+
+.remove-projeto-button, .see-projeto-details-button{
+    background-color: #D3D3D3;
+    border: none;
+    font-size: 24px;
+    color: #28e0c8;
+    margin: 0 5px;
+}
+

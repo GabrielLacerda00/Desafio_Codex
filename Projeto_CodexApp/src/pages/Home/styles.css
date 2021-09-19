@@ -1,0 +1,33 @@
+.containerheader {
+    background-color: #28e0c8;
+    border: 2px solid #28e0c8;
+    padding: 30px;
+   
+}
+.containerfooter{
+    background-color: #28e0c8;
+    border: 2px solid #28e0c8;
+    padding: 30px;
+}
+
+
+.container {
+    max-width: 7000px;
+    margin: 30px;
+    overflow: auto;
+    min-height: 100px;
+    border: 2px solid #28e0c8;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.container2 {
+    max-width: 500px;
+    margin: 30px;
+    overflow: auto;
+    min-height: 350px;
+    border: 2px solid #28e0c8;
+    padding: 30px;
+    border-radius: 10px;
+}
+
